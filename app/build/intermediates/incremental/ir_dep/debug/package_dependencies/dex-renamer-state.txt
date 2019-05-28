@@ -1,0 +1,4 @@
+#Tue Apr 16 14:24:30 IST 2019
+base.0=/home/saketh/AndroidStudioProjects/medikart/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

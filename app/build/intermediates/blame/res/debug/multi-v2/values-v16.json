@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/saketh/AndroidStudioProjects/medikart/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/saketh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/5e00f727c59244aa7315a1c929f86c11/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/saketh/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/9f409f8a23bbd2c37963698d011ad2ba/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.google.android.material:material:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/f4021737be8e4b19e32a1c2407e6ae46/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/5e00f727c59244aa7315a1c929f86c11/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saketh/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/97a81a12e3e63f2f84235e0d0efbe4be/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/f565d6202cbff2d35974294fb01b7d62/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-beta01.aar/72faafe5063bc33391b8156686141f93/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-beta01.aar/f6604bfb325f557db785ea8aa9392092/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/85bbe37857232079bb127fb45fc9df72/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/c5b9935871c824853463a7f84341c8cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-beta01.aar/0f84d40e364d89b8a1853e0aa7ab1510/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-beta01.aar/eef842acb1675ac000670858777351ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/10ff903986a39c1e8dd8b0d3fdb19ccd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/12184ff33c7e4bc9623f02914e0e1534/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/104b341f330d0e5be852c45bcb2392a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/c59cce7222e1d33b4903f36098c7aaa8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/eeb9437c42dfe8539a1de7165faa81ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/bd02583b6b4ec297398e82a558a2de1f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/4b8beffe6a493b2c8a62dffeb12baf43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/5fdad8d8f66e73ba183982cb0cd766e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/9f409f8a23bbd2c37963698d011ad2ba/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/74c86185e7b166eb3a7572f81e21bffb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-beta01.aar/280493df11b16210c66065b933af2e58/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/8afc69b09b3f20c7ca35da44c195fd71/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/a94baad5642053383a1c794ac5e6e58c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/b433aae09c2681859b9adcced2cbae1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/881eb42e51f0243d911d5337f89ac3d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/3606e49e8601e4ca8a52285c09e9f9a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/e44b517d02392abd2bc4ad9c583dd08d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/a5a6f9e604855f56b2c02642a45fe602/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/9b39ea8aec619c599bf625a04072c350/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/6eaff1829c2227598ff369215cf2a352/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:7:22-69
+application
+ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:9:5-29:19
+MERGED from [com.google.android.material:material:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/f4021737be8e4b19e32a1c2407e6ae46/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/f4021737be8e4b19e32a1c2407e6ae46/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saketh/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/97a81a12e3e63f2f84235e0d0efbe4be/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saketh/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/97a81a12e3e63f2f84235e0d0efbe4be/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/9f409f8a23bbd2c37963698d011ad2ba/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/9f409f8a23bbd2c37963698d011ad2ba/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/8afc69b09b3f20c7ca35da44c195fd71/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/8afc69b09b3f20c7ca35da44c195fd71/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/9f409f8a23bbd2c37963698d011ad2ba/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.medikart.medikart.admin_main
+ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:16:9-57
+	android:name
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:16:19-45
+activity#com.medikart.medikart.AdminHome
+ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:17:9-47
+	android:name
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:17:19-44
+activity#com.medikart.medikart.CustomerHome
+ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:18:9-50
+	android:name
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:18:19-47
+activity#com.medikart.medikart.LoginActivity
+ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:19:9-21:60
+	android:label
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:21:13-57
+	android:name
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:20:13-42
+activity#com.medikart.medikart.MainActivity
+ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/f4021737be8e4b19e32a1c2407e6ae46/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/f4021737be8e4b19e32a1c2407e6ae46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/5e00f727c59244aa7315a1c929f86c11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/5e00f727c59244aa7315a1c929f86c11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saketh/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/97a81a12e3e63f2f84235e0d0efbe4be/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saketh/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/97a81a12e3e63f2f84235e0d0efbe4be/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/f565d6202cbff2d35974294fb01b7d62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/f565d6202cbff2d35974294fb01b7d62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-beta01.aar/72faafe5063bc33391b8156686141f93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-beta01.aar/72faafe5063bc33391b8156686141f93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-beta01.aar/f6604bfb325f557db785ea8aa9392092/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-beta01.aar/f6604bfb325f557db785ea8aa9392092/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/85bbe37857232079bb127fb45fc9df72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/85bbe37857232079bb127fb45fc9df72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/c5b9935871c824853463a7f84341c8cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/c5b9935871c824853463a7f84341c8cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-beta01.aar/0f84d40e364d89b8a1853e0aa7ab1510/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-beta01.aar/0f84d40e364d89b8a1853e0aa7ab1510/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-beta01.aar/eef842acb1675ac000670858777351ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-beta01.aar/eef842acb1675ac000670858777351ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/10ff903986a39c1e8dd8b0d3fdb19ccd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/10ff903986a39c1e8dd8b0d3fdb19ccd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/12184ff33c7e4bc9623f02914e0e1534/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/12184ff33c7e4bc9623f02914e0e1534/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/104b341f330d0e5be852c45bcb2392a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/104b341f330d0e5be852c45bcb2392a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/c59cce7222e1d33b4903f36098c7aaa8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/c59cce7222e1d33b4903f36098c7aaa8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/eeb9437c42dfe8539a1de7165faa81ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/eeb9437c42dfe8539a1de7165faa81ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/bd02583b6b4ec297398e82a558a2de1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/bd02583b6b4ec297398e82a558a2de1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/4b8beffe6a493b2c8a62dffeb12baf43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/4b8beffe6a493b2c8a62dffeb12baf43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/5fdad8d8f66e73ba183982cb0cd766e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/5fdad8d8f66e73ba183982cb0cd766e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/9f409f8a23bbd2c37963698d011ad2ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/9f409f8a23bbd2c37963698d011ad2ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/74c86185e7b166eb3a7572f81e21bffb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/74c86185e7b166eb3a7572f81e21bffb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-beta01.aar/280493df11b16210c66065b933af2e58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-beta01.aar/280493df11b16210c66065b933af2e58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/8afc69b09b3f20c7ca35da44c195fd71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/8afc69b09b3f20c7ca35da44c195fd71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/a94baad5642053383a1c794ac5e6e58c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/a94baad5642053383a1c794ac5e6e58c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/b433aae09c2681859b9adcced2cbae1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/b433aae09c2681859b9adcced2cbae1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/881eb42e51f0243d911d5337f89ac3d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/881eb42e51f0243d911d5337f89ac3d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/3606e49e8601e4ca8a52285c09e9f9a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/3606e49e8601e4ca8a52285c09e9f9a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/e44b517d02392abd2bc4ad9c583dd08d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/e44b517d02392abd2bc4ad9c583dd08d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/a5a6f9e604855f56b2c02642a45fe602/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/a5a6f9e604855f56b2c02642a45fe602/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/9b39ea8aec619c599bf625a04072c350/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/9b39ea8aec619c599bf625a04072c350/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/6eaff1829c2227598ff369215cf2a352/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /home/saketh/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/6eaff1829c2227598ff369215cf2a352/AndroidManifest.xml:20:5-44
+INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+		ADDED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saketh/AndroidStudioProjects/medikart/app/src/main/AndroidManifest.xml
